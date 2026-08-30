@@ -1,0 +1,6 @@
+Piston assembly : 
+- add piston pin and find a way to fix it in place without it sliding out. 
+- add 3 piston rings for the sealing function
+- to simply the assembly with screws, use ones with hexagonal form and do an hexagonal hole.
+during assembly it is easier to screw them when they are lock in an hexagonal hole, without the need to use a tool to block their rotation
+
