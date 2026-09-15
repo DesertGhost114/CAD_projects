@@ -1,0 +1,11 @@
+In SolidWorks, create any object in real scale
+
+
+save the file as STL
+
+Open the STL file while selecting the filer scan to 3d (obj., stl, ...)
+
+save the file as obj
+
+import the objects in the game program
+set the same scale value for all objects
