@@ -4,3 +4,15 @@ Piston assembly :
 - to simply the assembly with screws, use ones with hexagonal form and do an hexagonal hole.
 during assembly it is easier to screw them when they are lock in an hexagonal hole, without the need to use a tool to block their rotation
 
+
+
+Engine block :
+
+to cut the interior, use another feature than the revolve cut.
+to much material are still present and it must be removed to reduce weight
+extruded cut would be more appropriate.
+
+instead of repeating the linear patterns after each feature, use only 2
+
+one to repeat 6 times, and the second 7 times
+use each linear pattern with all the features that must be repeated all together in one go
